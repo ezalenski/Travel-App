@@ -1,0 +1,8 @@
+7
+Chi Mil 1.0
+Mil Min 2.35
+Min Chi 2.9
+Chi Las 4.0
+Ant Npo 72
+Ire Chi 24
+Min Min 0.0

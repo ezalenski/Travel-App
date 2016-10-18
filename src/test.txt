@@ -1,0 +1,12 @@
+7
+locA locB 7.0
+locB locC 10.1
+locA locD 9.2
+locD locC 5.0
+locB locD 2.0
+locB locE 19.9
+locA locE 18.0
+locF locE 12.2
+locC locF 8.0
+locG locF 11.7
+locD locF 15.4

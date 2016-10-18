@@ -154,3 +154,4 @@ extern int pq_size(PQ * pq);
 extern int pq_contains(PQ * pq, int id);
 
 
+extern void pq_print(PQ * pq);
