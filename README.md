@@ -1,4 +1,4 @@
-# CS-251-Travel-App
+# Travel-App
 travel app using dijkstra's algorithm. Uses own implemented priority queue and graph as well as an external hashmap library.
 
 ### Build and run
